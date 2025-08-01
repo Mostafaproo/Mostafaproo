@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/your-banner-image-url/banner.png)
+![Banner](./Cream Minimalist Corporate Personal Profile LinkedIn Banner.png)
 
 # Hi there, I'm Mostafa Zidan! 👋
 
