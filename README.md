@@ -39,14 +39,13 @@ I'm a **Frontend Developer** passionate about building fast, accessible, and res
 
 ## 🎯 Goals & Hobbies
 - 🔭 Goal: Master design systems and frontend performance architecture
-- 📚 Learning Next.js and advanced testing techniques
+- 📚 Learning Node.js and advanced testing techniques
 - 🎮 Hobby: Gaming & Pixel art
 - 🎧 Music: Deep focus electronic and lo-fi beats while coding
 
-## 📊 GitHub Stats
-![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaZidan96&show_icons=true&theme=radical)
+
 
 ## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/mostafazidan96)
-- [GitHub](https://github.com/MostafaZidan96)
-- 📩 mostafazidan96@gmail.com
+- [LinkedIn]([https://www.linkedin.com/in/mostafazidan96](https://tinyurl.com/23jq2vdx))
+- [GitHub]([https://github.com/MostafaZidan96](https://github.com/Mostafaproo))
+- 📩 mostafa.livecode@gmail.com
