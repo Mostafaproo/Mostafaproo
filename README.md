@@ -1,4 +1,4 @@
-![Banner](./Cream Minimalist Corporate Personal Profile LinkedIn Banner.png)
+![Banner](./Banner.png)
 
 # Hi there, I'm Mostafa Zidan! 👋
 
