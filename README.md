@@ -23,6 +23,7 @@ I'm a **Frontend Developer** passionate about building fast, accessible, and res
 ### 🔹 DevSolutions Group LLC (2024)
 - Built restaurant and POS systems using Angular & Nuxt.js
 - Key project: [Qwizeen](https://qwizeen.io/) – Online food ordering platform
+- Key project: [Nextelco Plans Wizard](https://qwizeen.io/](https://app.nextelco.io/plans-wizard/home)) – is an interactive web tool that guides users step-by-step to customize mobile and telecom plans based on their specific needs.
 
 ## 🛠️ Tech Stack
 <p align="left">
